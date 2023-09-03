@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br />
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiseong1951)](https://solved.ac/profile/jiseong1951)
 <br />
-[![GitHub followers](https://img.shields.io/github/followers/jiseong-choi?style=flat-square)](https://github.com/jiseong-choi?tab=followers)
+<!--[![GitHub followers](https://img.shields.io/github/followers/jiseong-choi?style=flat-square)](https://github.com/jiseong-choi?tab=followers)
 <br />
 <!-- <a href="https://opgc.me/#/users/jiseong-choi" target="_blank"><img src="https://api.opgc.me/githubs/users/jiseong-choi/tag/?theme=basic" /></a>
 <br /> -->
